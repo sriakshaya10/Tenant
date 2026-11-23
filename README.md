@@ -1,13 +1,8 @@
 # TenantSynth AI – Synthetic Rental Application Generator
 
-[![FastAPI](https://img.shields.io/badge/Backend-FastAPI-009688.svg?style=flat&logo=fastapi)](https://fastapi.tiangolo.com)
-[![React](https://img.shields.io/badge/Frontend-React%2018%20%2B%20TypeScript-61DAFB.svg?style=flat&logo=react)](https://react.dev)
-[![TailwindCSS](https://img.shields.io/badge/UI-Tailwind%20CSS-38B2AC.svg?style=flat&logo=tailwind-css)](https://tailwindcss.com)
-[![SDV](https://img.shields.io/badge/GenAI-SDV%20%26%20CTGAN-FF6F00.svg?style=flat)](https://sdv.dev)
-
-> **⚠️ Research & testing only.** Every generated record is fictional. TenantSynth AI does not generate real personal data and must not be used for real tenant screening, leasing decisions, or credit underwriting.
-
 TenantSynth AI is a full-stack generative AI platform that creates realistic synthetic rental application datasets. Researchers and data scientists can use it to test screening models, audit them for fairness, and simulate market shifts without touching real tenant data.
+
+All generated records are fictional, so the data is meant for research and testing, not for real tenant screening or leasing decisions.
 
 ---
 
