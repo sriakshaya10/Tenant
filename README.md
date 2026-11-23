@@ -111,8 +111,8 @@ tenantsynth-ai/
 ### 1. Clone
 
 ```bash
-git clone https://github.com/sathvikkotra/Tenant_Synth.git
-cd Tenant_Synth
+git clone https://github.com/sriakshaya10/Tenant.git
+cd Tenant
 ```
 
 ### 2. Backend
